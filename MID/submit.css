@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    background: #786fa6;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.formulir-content {
+    background: linear-gradient(125deg, #778beb, #f8a5c2);
+    width: 500px;
+    padding: 60px;
+    text-align: left;
+    box-shadow: 0 0 20px #00000060;
+}
+
+.formulir-title {
+    text-align: center;
+    border-radius: 5px;
+    padding: 5%;
+}
+
+.formulir h1 {
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 30px;
+    line-height: 27px;
+}
